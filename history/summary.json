@@ -563,18 +563,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.qteknos.com.ico",
     "slug": "qteknos",
     "status": "down",
-    "uptime": "6.02%",
-    "uptimeDay": "6.02%",
-    "uptimeWeek": "6.02%",
-    "uptimeMonth": "6.02%",
-    "uptimeYear": "6.02%",
+    "uptime": "5.53%",
+    "uptimeDay": "5.53%",
+    "uptimeWeek": "5.53%",
+    "uptimeMonth": "5.53%",
+    "uptimeYear": "5.53%",
     "time": 8821,
     "timeDay": 8821,
     "timeWeek": 8821,
     "timeMonth": 8821,
     "timeYear": 8821,
     "dailyMinutesDown": {
-      "2025-03-05": 2
+      "2025-03-05": 3
     }
   },
   {
@@ -745,11 +745,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/silverplas.co.id.ico",
     "slug": "silverplas",
     "status": "down",
-    "uptime": "1.70%",
-    "uptimeDay": "1.70%",
-    "uptimeWeek": "1.70%",
-    "uptimeMonth": "1.70%",
-    "uptimeYear": "1.70%",
+    "uptime": "0.87%",
+    "uptimeDay": "0.87%",
+    "uptimeWeek": "0.87%",
+    "uptimeMonth": "0.87%",
+    "uptimeYear": "0.87%",
     "time": 1079,
     "timeDay": 1079,
     "timeWeek": 1079,
@@ -783,18 +783,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rigometalfurniture.com.ico",
     "slug": "rigo-metal-furniture",
     "status": "down",
-    "uptime": "81.76%",
-    "uptimeDay": "81.76%",
-    "uptimeWeek": "81.76%",
-    "uptimeMonth": "81.76%",
-    "uptimeYear": "81.76%",
+    "uptime": "71.42%",
+    "uptimeDay": "71.42%",
+    "uptimeWeek": "71.42%",
+    "uptimeMonth": "71.42%",
+    "uptimeYear": "71.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 0
+      "2025-03-05": 1
     }
   },
   {
