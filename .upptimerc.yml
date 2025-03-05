@@ -111,6 +111,28 @@ sites:
     url: https://anugerahlestari.co.id
   - name: Hamparan Stone
     url: https://hamparanstone.com
+  - name: Stellarfm
+    url: http://stellarfm.com.au
+  - name: GKI Kelapa Cengkir
+    url: https://gkikelapacengkir.org
+  - name: Majalah Sunday
+    url: https://majalahsunday.com
+  - name: Montana Design
+    url: http://montanadesign.co.id
+  - name: Jawara System
+    url: https://www.jawarasystems.io
+  - name: Bestra
+    url: https://www.bestra.co.id
+  - name: BW Indonesia
+    url: https://bw-indonesia.com
+  - name: KPSG
+    url: https://kpsg.com
+  - name: Romeesa Design
+    url: https://romeesadesign.co.id
+  - name: Jayananta Anugerah Sejati
+    url: https://jayanantaanugerahsejati.com
+  - name: The Ahad
+    url: https://www.the-ahad.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
