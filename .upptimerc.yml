@@ -95,6 +95,22 @@ sites:
     url: https://www.wisakademi.com
   - name: Giga Solusi
     url: https://gigasolusi.co.id
+  - name: Putra Bhakti Court
+    url: http://www.putrabhakticourt.com
+  - name: Risman Hotel
+    url: https://therismanhotel.com
+  - name: Prodia OHI
+    url: https://prodiaohi.co.id
+  - name: Tjajolaw
+    url: https://tjajolaw.id
+  - name: Blue Power Technology
+    url: https://www.bluepowertechnology.com
+  - name: Ikarao
+    url: https://ikarao.id
+  - name: CV Anugerah Lestari
+    url: https://anugerahlestari.co.id
+  - name: Hamparan Stone
+    url: https://hamparanstone.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
