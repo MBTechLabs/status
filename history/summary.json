@@ -526,18 +526,20 @@
     "url": "https://silikal.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/silikal.com.au.ico",
     "slug": "silikal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 104,
-    "timeWeek": 104,
-    "timeMonth": 104,
-    "timeYear": 104,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
+    "time": 117,
+    "timeDay": 117,
+    "timeWeek": 117,
+    "timeMonth": 117,
+    "timeYear": 117,
+    "dailyMinutesDown": {
+      "2025-03-05": 4
+    }
   },
   {
     "name": "HRD Venture Trade",
@@ -563,18 +565,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.qteknos.com.ico",
     "slug": "qteknos",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 5183,
     "timeDay": 5183,
     "timeWeek": 5183,
     "timeMonth": 5183,
     "timeYear": 5183,
     "dailyMinutesDown": {
-      "2025-03-05": 186
+      "2025-03-05": 233
     }
   },
   {
@@ -601,11 +603,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rmsp.co.id.ico",
     "slug": "rmsp",
     "status": "up",
-    "uptime": "91.39%",
-    "uptimeDay": "91.39%",
-    "uptimeWeek": "91.39%",
-    "uptimeMonth": "91.39%",
-    "uptimeYear": "91.39%",
+    "uptime": "93.13%",
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "93.13%",
+    "uptimeMonth": "93.13%",
+    "uptimeYear": "93.13%",
     "time": 4905,
     "timeDay": 4905,
     "timeWeek": 4905,
@@ -747,11 +749,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/silverplas.co.id.ico",
     "slug": "silverplas",
     "status": "up",
-    "uptime": "55.05%",
-    "uptimeDay": "55.05%",
-    "uptimeWeek": "55.05%",
-    "uptimeMonth": "55.05%",
-    "uptimeYear": "55.05%",
+    "uptime": "64.13%",
+    "uptimeDay": "64.13%",
+    "uptimeWeek": "64.13%",
+    "uptimeMonth": "64.13%",
+    "uptimeYear": "64.13%",
     "time": 1645,
     "timeDay": 1645,
     "timeWeek": 1645,
@@ -785,18 +787,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rigometalfurniture.com.ico",
     "slug": "rigo-metal-furniture",
     "status": "down",
-    "uptime": "0.80%",
-    "uptimeDay": "0.80%",
-    "uptimeWeek": "0.80%",
-    "uptimeMonth": "0.80%",
-    "uptimeYear": "0.80%",
+    "uptime": "0.64%",
+    "uptimeDay": "0.64%",
+    "uptimeWeek": "0.64%",
+    "uptimeMonth": "0.64%",
+    "uptimeYear": "0.64%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 184
+      "2025-03-05": 231
     }
   },
   {
@@ -852,7 +854,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 167
+      "2025-03-05": 214
     }
   },
   {
@@ -1005,11 +1007,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gkikelapacengkir.org.ico",
     "slug": "gki-kelapa-cengkir",
     "status": "up",
-    "uptime": "74.87%",
-    "uptimeDay": "74.87%",
-    "uptimeWeek": "74.87%",
-    "uptimeMonth": "74.87%",
-    "uptimeYear": "74.87%",
+    "uptime": "82.31%",
+    "uptimeDay": "82.31%",
+    "uptimeWeek": "82.31%",
+    "uptimeMonth": "82.31%",
+    "uptimeYear": "82.31%",
     "time": 19296,
     "timeDay": 19296,
     "timeWeek": 19296,
@@ -1043,18 +1045,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/montanadesign.co.id.ico",
     "slug": "montana-design",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 112
+      "2025-03-05": 159
     }
   },
   {
@@ -1074,7 +1076,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 112
+      "2025-03-05": 159
     }
   },
   {
@@ -1101,18 +1103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bw-indonesia.com.ico",
     "slug": "bw-indonesia",
     "status": "down",
-    "uptime": "0.46%",
-    "uptimeDay": "0.46%",
-    "uptimeWeek": "0.46%",
-    "uptimeMonth": "0.46%",
-    "uptimeYear": "0.46%",
+    "uptime": "0.32%",
+    "uptimeDay": "0.32%",
+    "uptimeWeek": "0.32%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 111
+      "2025-03-05": 158
     }
   },
   {
