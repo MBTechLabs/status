@@ -11,6 +11,90 @@ sites:
     url: https://southbarn.id
   - name: Pipaslg
     url: https://pipaslg.com
+  - name: Trovee Studio
+    url: https://troveestudio.com
+  - name: Ballooney
+    url: https://ballooney.co.id
+  - name: Jaroemsadha
+    url: https://jaroemsadha.com
+  - name: Decor House Indonesia
+    url: https://decorhouseindonesia.com
+  - name: Somnum Chalets
+    url: https://somnumchalets.com
+  - name: Sugar Filtrations Screen
+    url: https://sugarfiltrationscreens.com
+  - name: Souma Movement
+    url: https://soumamovement.com
+  - name: Carne Ristorante
+    url: https://carneristorante.com
+  - name: Andsonsarana
+    url: https://andsonsarana.com
+  - name: Monelo
+    url: https://monelo.id
+  - name: Melon
+    url: https://melonbranding.com
+  - name: Homecarefs
+    url: https://homecarefs.com.au
+  - name: Pilates
+    url: https://pilatescapital.com
+  - name: Inkprint
+    url: https://inkprint.id
+  - name: Karunia Utama
+    url: https://karuniautama.id
+  - name: Koalisi tubindo
+    url: https://koalisitubindo.com
+  - name: Lavronque
+    url: https://lavronque.com
+  - name: Heir Care Studio
+    url: https://heircarestudio.com
+  - name: Buana Cahaya Abadi
+    url: https://buanacahayaabadi.com
+  - name: Vitablitz
+    url: https://vitablitzherbal.com
+  - name: Direct Station
+    url: https://directstation.co.id
+  - name: Tiga Sumber Audio
+    url: https://tigasumberaudio.com
+  - name: Elora
+    url: https://elora.co.id
+  - name: Tiang Living
+    url: https://tiangliving.com
+  - name: Hamparan Harapan Hayati
+    url: https://hamparanharapanhayati.com
+  - name: Silikal
+    url: https://silikal.com.au
+  - name: HRD Venture Trade
+    url: https://hrd-venture-trade.com
+  - name: Qteknos
+    url: https://www.qteknos.com
+  - name: Prada Setia
+    url: https://pradasetia.com
+  - name: RMSP
+    url: https://rmsp.co.id
+  - name: Marvelo Leather
+    url: https://marveloleather.com
+  - name: Caferoove
+    url: https://caferoovee.com
+  - name: RDS Indo
+    url: https://rds.co.id
+  - name: Mentari Freight
+    url: https://mentarifreight.com
+  - name: RDS Singapore
+    url: https://rds.sg
+  - name: RDS Vietnam
+    url: https://rdsvietnam.vn
+  - name: Alpha MT
+    url: https://alpha-mt.com
+  - name: Silverplas
+    url: https://silverplas.co.id
+  - name: Ispak
+    url: https://ispak.co.id
+  - name: Rigo Metal Furniture
+    url: https://rigometalfurniture.com
+  - name: Wisakademi
+    url: https://www.wisakademi.com
+  - name: Giga Solusi
+    url: https://gigasolusi.co.id
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
