@@ -310,19 +310,19 @@
     "url": "https://inkprint.id",
     "icon": "https://icons.duckduckgo.com/ip3/inkprint.id.ico",
     "slug": "inkprint",
-    "status": "down",
-    "uptime": "91.31%",
-    "uptimeDay": "91.31%",
-    "uptimeWeek": "91.31%",
-    "uptimeMonth": "91.31%",
-    "uptimeYear": "91.31%",
-    "time": 1860,
-    "timeDay": 1860,
-    "timeWeek": 1860,
-    "timeMonth": 1860,
-    "timeYear": 1860,
+    "status": "up",
+    "uptime": "89.00%",
+    "uptimeDay": "89.00%",
+    "uptimeWeek": "89.00%",
+    "uptimeMonth": "89.00%",
+    "uptimeYear": "89.00%",
+    "time": 5953,
+    "timeDay": 5953,
+    "timeWeek": 5953,
+    "timeMonth": 5953,
+    "timeYear": 5953,
     "dailyMinutesDown": {
-      "2025-03-05": 4
+      "2025-03-05": 5
     }
   },
   {
@@ -565,18 +565,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.qteknos.com.ico",
     "slug": "qteknos",
     "status": "down",
-    "uptime": "0.38%",
-    "uptimeDay": "0.38%",
-    "uptimeWeek": "0.38%",
-    "uptimeMonth": "0.38%",
-    "uptimeYear": "0.38%",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
     "time": 6561,
     "timeDay": 6561,
     "timeWeek": 6561,
     "timeMonth": 6561,
     "timeYear": 6561,
     "dailyMinutesDown": {
-      "2025-03-05": 40
+      "2025-03-05": 45
     }
   },
   {
@@ -747,18 +747,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/silverplas.co.id.ico",
     "slug": "silverplas",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 1095,
     "timeDay": 1095,
     "timeWeek": 1095,
     "timeMonth": 1095,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2025-03-05": 40
+      "2025-03-05": 44
     }
   },
   {
@@ -785,18 +785,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rigometalfurniture.com.ico",
     "slug": "rigo-metal-furniture",
     "status": "down",
-    "uptime": "3.79%",
-    "uptimeDay": "3.79%",
-    "uptimeWeek": "3.79%",
-    "uptimeMonth": "3.79%",
-    "uptimeYear": "3.79%",
+    "uptime": "3.38%",
+    "uptimeDay": "3.38%",
+    "uptimeWeek": "3.38%",
+    "uptimeMonth": "3.38%",
+    "uptimeYear": "3.38%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 38
+      "2025-03-05": 43
     }
   },
   {
@@ -852,7 +852,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 21
+      "2025-03-05": 26
     }
   },
   {
