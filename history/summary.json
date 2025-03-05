@@ -94,19 +94,19 @@
     "url": "https://ballooney.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/ballooney.co.id.ico",
     "slug": "ballooney",
-    "status": "down",
-    "uptime": "96.22%",
-    "uptimeDay": "96.22%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "96.22%",
-    "uptimeYear": "96.22%",
-    "time": 678,
-    "timeDay": 678,
-    "timeWeek": 678,
-    "timeMonth": 678,
-    "timeYear": 678,
+    "status": "up",
+    "uptime": "93.34%",
+    "uptimeDay": "93.34%",
+    "uptimeWeek": "93.34%",
+    "uptimeMonth": "93.34%",
+    "uptimeYear": "93.34%",
+    "time": 585,
+    "timeDay": 585,
+    "timeWeek": 585,
+    "timeMonth": 585,
+    "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-03-05": 6
+      "2025-03-05": 11
     }
   },
   {
@@ -576,7 +576,7 @@
     "timeMonth": 5183,
     "timeYear": 5183,
     "dailyMinutesDown": {
-      "2025-03-05": 154
+      "2025-03-05": 163
     }
   },
   {
@@ -602,19 +602,19 @@
     "url": "https://rmsp.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/rmsp.co.id.ico",
     "slug": "rmsp",
-    "status": "down",
-    "uptime": "97.86%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "97.86%",
-    "uptimeYear": "97.86%",
-    "time": 4783,
-    "timeDay": 4783,
-    "timeWeek": 4783,
-    "timeMonth": 4783,
-    "timeYear": 4783,
+    "status": "up",
+    "uptime": "94.22%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "94.22%",
+    "uptimeMonth": "94.22%",
+    "uptimeYear": "94.22%",
+    "time": 4592,
+    "timeDay": 4592,
+    "timeWeek": 4592,
+    "timeMonth": 4592,
+    "timeYear": 4592,
     "dailyMinutesDown": {
-      "2025-03-05": 3
+      "2025-03-05": 9
     }
   },
   {
@@ -749,11 +749,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/silverplas.co.id.ico",
     "slug": "silverplas",
     "status": "up",
-    "uptime": "45.56%",
-    "uptimeDay": "45.56%",
-    "uptimeWeek": "45.56%",
-    "uptimeMonth": "45.56%",
-    "uptimeYear": "45.56%",
+    "uptime": "48.70%",
+    "uptimeDay": "48.70%",
+    "uptimeWeek": "48.70%",
+    "uptimeMonth": "48.70%",
+    "uptimeYear": "48.70%",
     "time": 1645,
     "timeDay": 1645,
     "timeWeek": 1645,
@@ -787,18 +787,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rigometalfurniture.com.ico",
     "slug": "rigo-metal-furniture",
     "status": "down",
-    "uptime": "0.98%",
-    "uptimeDay": "0.98%",
-    "uptimeWeek": "0.98%",
-    "uptimeMonth": "0.98%",
-    "uptimeYear": "0.98%",
+    "uptime": "0.92%",
+    "uptimeDay": "0.92%",
+    "uptimeWeek": "0.92%",
+    "uptimeMonth": "0.92%",
+    "uptimeYear": "0.92%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 152
+      "2025-03-05": 161
     }
   },
   {
@@ -854,7 +854,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 135
+      "2025-03-05": 144
     }
   },
   {
@@ -1007,18 +1007,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gkikelapacengkir.org.ico",
     "slug": "gki-kelapa-cengkir",
     "status": "down",
-    "uptime": "84.07%",
-    "uptimeDay": "84.07%",
-    "uptimeWeek": "84.07%",
-    "uptimeMonth": "84.07%",
-    "uptimeYear": "84.07%",
+    "uptime": "75.19%",
+    "uptimeDay": "75.19%",
+    "uptimeWeek": "75.19%",
+    "uptimeMonth": "75.19%",
+    "uptimeYear": "75.19%",
     "time": 13889,
     "timeDay": 13889,
     "timeWeek": 13889,
     "timeMonth": 13889,
     "timeYear": 13889,
     "dailyMinutesDown": {
-      "2025-03-05": 13
+      "2025-03-05": 22
     }
   },
   {
@@ -1045,18 +1045,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/montanadesign.co.id.ico",
     "slug": "montana-design",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 79
+      "2025-03-05": 89
     }
   },
   {
@@ -1065,18 +1065,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jawarasystems.io.ico",
     "slug": "jawara-system",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 79
+      "2025-03-05": 88
     }
   },
   {
@@ -1103,18 +1103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bw-indonesia.com.ico",
     "slug": "bw-indonesia",
     "status": "down",
-    "uptime": "0.65%",
-    "uptimeDay": "0.65%",
-    "uptimeWeek": "0.65%",
-    "uptimeMonth": "0.65%",
-    "uptimeYear": "0.65%",
+    "uptime": "0.57%",
+    "uptimeDay": "0.57%",
+    "uptimeWeek": "0.57%",
+    "uptimeMonth": "0.57%",
+    "uptimeYear": "0.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 78
+      "2025-03-05": 88
     }
   },
   {
