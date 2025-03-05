@@ -527,11 +527,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/silikal.com.au.ico",
     "slug": "silikal",
     "status": "up",
-    "uptime": "93.98%",
-    "uptimeDay": "93.98%",
-    "uptimeWeek": "93.98%",
-    "uptimeMonth": "93.98%",
-    "uptimeYear": "93.98%",
+    "uptime": "94.22%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "94.22%",
+    "uptimeMonth": "94.22%",
+    "uptimeYear": "94.22%",
     "time": 143,
     "timeDay": 143,
     "timeWeek": 143,
@@ -576,7 +576,7 @@
     "timeMonth": 5183,
     "timeYear": 5183,
     "dailyMinutesDown": {
-      "2025-03-05": 277
+      "2025-03-05": 288
     }
   },
   {
@@ -602,19 +602,19 @@
     "url": "https://rmsp.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/rmsp.co.id.ico",
     "slug": "rmsp",
-    "status": "up",
-    "uptime": "94.21%",
-    "uptimeDay": "94.21%",
-    "uptimeWeek": "94.21%",
-    "uptimeMonth": "94.21%",
-    "uptimeYear": "94.21%",
+    "status": "down",
+    "uptime": "93.12%",
+    "uptimeDay": "93.12%",
+    "uptimeWeek": "93.12%",
+    "uptimeMonth": "93.12%",
+    "uptimeYear": "93.12%",
     "time": 4905,
     "timeDay": 4905,
     "timeWeek": 4905,
     "timeMonth": 4905,
     "timeYear": 4905,
     "dailyMinutesDown": {
-      "2025-03-05": 16
+      "2025-03-05": 20
     }
   },
   {
@@ -748,19 +748,19 @@
     "url": "https://silverplas.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/silverplas.co.id.ico",
     "slug": "silverplas",
-    "status": "down",
-    "uptime": "68.58%",
-    "uptimeDay": "68.58%",
-    "uptimeWeek": "68.58%",
-    "uptimeMonth": "68.58%",
-    "uptimeYear": "68.58%",
-    "time": 1645,
-    "timeDay": 1645,
-    "timeWeek": 1645,
-    "timeMonth": 1645,
-    "timeYear": 1645,
+    "status": "up",
+    "uptime": "70.97%",
+    "uptimeDay": "70.97%",
+    "uptimeWeek": "70.97%",
+    "uptimeMonth": "70.97%",
+    "uptimeYear": "70.97%",
+    "time": 4033,
+    "timeDay": 4033,
+    "timeWeek": 4033,
+    "timeMonth": 4033,
+    "timeYear": 4033,
     "dailyMinutesDown": {
-      "2025-03-05": 87
+      "2025-03-05": 84
     }
   },
   {
@@ -787,18 +787,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rigometalfurniture.com.ico",
     "slug": "rigo-metal-furniture",
     "status": "down",
-    "uptime": "0.54%",
-    "uptimeDay": "0.54%",
-    "uptimeWeek": "0.54%",
-    "uptimeMonth": "0.54%",
-    "uptimeYear": "0.54%",
+    "uptime": "0.52%",
+    "uptimeDay": "0.52%",
+    "uptimeWeek": "0.52%",
+    "uptimeMonth": "0.52%",
+    "uptimeYear": "0.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 275
+      "2025-03-05": 286
     }
   },
   {
@@ -854,7 +854,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 258
+      "2025-03-05": 269
     }
   },
   {
@@ -1007,11 +1007,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gkikelapacengkir.org.ico",
     "slug": "gki-kelapa-cengkir",
     "status": "up",
-    "uptime": "86.12%",
-    "uptimeDay": "86.12%",
-    "uptimeWeek": "86.12%",
-    "uptimeMonth": "86.12%",
-    "uptimeYear": "86.12%",
+    "uptime": "86.85%",
+    "uptimeDay": "86.85%",
+    "uptimeWeek": "86.85%",
+    "uptimeMonth": "86.85%",
+    "uptimeYear": "86.85%",
     "time": 19296,
     "timeDay": 19296,
     "timeWeek": 19296,
@@ -1056,7 +1056,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 202
+      "2025-03-05": 213
     }
   },
   {
@@ -1076,7 +1076,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 202
+      "2025-03-05": 213
     }
   },
   {
@@ -1103,18 +1103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bw-indonesia.com.ico",
     "slug": "bw-indonesia",
     "status": "down",
-    "uptime": "0.25%",
-    "uptimeDay": "0.25%",
-    "uptimeWeek": "0.25%",
-    "uptimeMonth": "0.25%",
-    "uptimeYear": "0.25%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 202
+      "2025-03-05": 213
     }
   },
   {
