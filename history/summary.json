@@ -95,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ballooney.co.id.ico",
     "slug": "ballooney",
     "status": "up",
-    "uptime": "93.34%",
-    "uptimeDay": "93.34%",
-    "uptimeWeek": "93.34%",
-    "uptimeMonth": "93.34%",
-    "uptimeYear": "93.34%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 585,
     "timeDay": 585,
     "timeWeek": 585,
     "timeMonth": 585,
     "timeYear": 585,
-    "dailyMinutesDown": {
-      "2025-03-05": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jaroemsadha",
@@ -565,18 +563,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.qteknos.com.ico",
     "slug": "qteknos",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 5183,
     "timeDay": 5183,
     "timeWeek": 5183,
     "timeMonth": 5183,
     "timeYear": 5183,
     "dailyMinutesDown": {
-      "2025-03-05": 163
+      "2025-03-05": 170
     }
   },
   {
@@ -602,19 +600,19 @@
     "url": "https://rmsp.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/rmsp.co.id.ico",
     "slug": "rmsp",
-    "status": "up",
-    "uptime": "94.22%",
-    "uptimeDay": "94.22%",
-    "uptimeWeek": "94.22%",
-    "uptimeMonth": "94.22%",
-    "uptimeYear": "94.22%",
+    "status": "down",
+    "uptime": "97.86%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "97.86%",
     "time": 4592,
     "timeDay": 4592,
     "timeWeek": 4592,
     "timeMonth": 4592,
     "timeYear": 4592,
     "dailyMinutesDown": {
-      "2025-03-05": 9
+      "2025-03-05": 4
     }
   },
   {
@@ -749,11 +747,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/silverplas.co.id.ico",
     "slug": "silverplas",
     "status": "up",
-    "uptime": "48.70%",
-    "uptimeDay": "48.70%",
-    "uptimeWeek": "48.70%",
-    "uptimeMonth": "48.70%",
-    "uptimeYear": "48.70%",
+    "uptime": "50.86%",
+    "uptimeDay": "50.86%",
+    "uptimeWeek": "50.86%",
+    "uptimeMonth": "50.86%",
+    "uptimeYear": "50.86%",
     "time": 1645,
     "timeDay": 1645,
     "timeWeek": 1645,
@@ -787,18 +785,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rigometalfurniture.com.ico",
     "slug": "rigo-metal-furniture",
     "status": "down",
-    "uptime": "0.92%",
-    "uptimeDay": "0.92%",
-    "uptimeWeek": "0.92%",
-    "uptimeMonth": "0.92%",
-    "uptimeYear": "0.92%",
+    "uptime": "0.88%",
+    "uptimeDay": "0.88%",
+    "uptimeWeek": "0.88%",
+    "uptimeMonth": "0.88%",
+    "uptimeYear": "0.88%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 161
+      "2025-03-05": 168
     }
   },
   {
@@ -854,7 +852,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 144
+      "2025-03-05": 151
     }
   },
   {
@@ -1006,19 +1004,19 @@
     "url": "https://gkikelapacengkir.org",
     "icon": "https://icons.duckduckgo.com/ip3/gkikelapacengkir.org.ico",
     "slug": "gki-kelapa-cengkir",
-    "status": "down",
-    "uptime": "75.19%",
-    "uptimeDay": "75.19%",
-    "uptimeWeek": "75.19%",
-    "uptimeMonth": "75.19%",
-    "uptimeYear": "75.19%",
-    "time": 13889,
-    "timeDay": 13889,
-    "timeWeek": 13889,
-    "timeMonth": 13889,
-    "timeYear": 13889,
+    "status": "up",
+    "uptime": "70.72%",
+    "uptimeDay": "70.72%",
+    "uptimeWeek": "70.72%",
+    "uptimeMonth": "70.72%",
+    "uptimeYear": "70.72%",
+    "time": 19296,
+    "timeDay": 19296,
+    "timeWeek": 19296,
+    "timeMonth": 19296,
+    "timeYear": 19296,
     "dailyMinutesDown": {
-      "2025-03-05": 22
+      "2025-03-05": 28
     }
   },
   {
@@ -1045,18 +1043,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/montanadesign.co.id.ico",
     "slug": "montana-design",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 89
+      "2025-03-05": 96
     }
   },
   {
@@ -1065,18 +1063,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jawarasystems.io.ico",
     "slug": "jawara-system",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 88
+      "2025-03-05": 96
     }
   },
   {
@@ -1103,18 +1101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bw-indonesia.com.ico",
     "slug": "bw-indonesia",
     "status": "down",
-    "uptime": "0.57%",
-    "uptimeDay": "0.57%",
-    "uptimeWeek": "0.57%",
-    "uptimeMonth": "0.57%",
-    "uptimeYear": "0.57%",
+    "uptime": "0.52%",
+    "uptimeDay": "0.52%",
+    "uptimeWeek": "0.52%",
+    "uptimeMonth": "0.52%",
+    "uptimeYear": "0.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 88
+      "2025-03-05": 95
     }
   },
   {
