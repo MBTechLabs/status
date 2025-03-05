@@ -9,6 +9,8 @@ sites:
     url: https://sentrallabgenetik.co.id
   - name: Soutbarn
     url: https://southbarn.id
+  - name: Pipaslg
+    url: https://pipaslg.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
