@@ -133,6 +133,12 @@ sites:
     url: https://jayanantaanugerahsejati.com
   - name: The Ahad
     url: https://www.the-ahad.com
+  - name: ARSI
+    url: https://arsi.ai
+  - name: EGEROO
+    url: https://egeroo.ai
+  - name: PayPrime
+    url: https://payprime.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
