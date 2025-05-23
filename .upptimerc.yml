@@ -135,8 +135,6 @@ sites:
     url: https://egeroo.ai
   - name: PayPrime
     url: https://payprime.com
-  - name: Test
-    url: https://test.test
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
