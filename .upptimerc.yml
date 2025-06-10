@@ -73,8 +73,6 @@ sites:
     url: https://rmsp.co.id
   - name: Marvelo Leather
     url: https://marveloleather.com
-  - name: Caferoove
-    url: https://caferoovee.com
   - name: RDS Indo
     url: https://rds.co.id
   - name: Mentari Freight
@@ -91,8 +89,6 @@ sites:
     url: https://ispak.co.id
   - name: Giga Solusi
     url: https://gigasolusi.co.id
-  - name: Putra Bhakti Court
-    url: http://www.putrabhakticourt.com
   - name: Risman Hotel
     url: https://therismanhotel.com
   - name: Prodia OHI
@@ -113,14 +109,6 @@ sites:
     url: https://gkikelapacengkir.org
   - name: Majalah Sunday
     url: https://majalahsunday.com
-  - name: Montana Design
-    url: http://montanadesign.co.id
-  - name: Jawara System
-    url: https://www.jawarasystems.io
-  - name: Bestra
-    url: https://www.bestra.co.id
-  - name: BW Indonesia
-    url: https://bw-indonesia.com
   - name: KPSG
     url: https://kpsg.com
   - name: Romeesa Design
