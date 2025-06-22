@@ -1509,10 +1509,10 @@
     "url": "https://tjajolaw.id",
     "icon": "https://icons.duckduckgo.com/ip3/tjajolaw.id.ico",
     "slug": "tjajolaw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.84%",
     "time": 1781,
@@ -1521,7 +1521,7 @@
     "timeMonth": 1967,
     "timeYear": 1781,
     "dailyMinutesDown": {
-      "2025-06-22": 17,
+      "2025-06-22": 19,
       "2025-05-03": 237
     }
   },
