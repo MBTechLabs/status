@@ -1,7 +1,7 @@
 url: https://ikarao.id
-status: up
-code: 200
-responseTime: 1429
-lastUpdated: 2025-08-17T23:19:31.062Z
+status: down
+code: 504
+responseTime: 10240
+lastUpdated: 2025-08-18T14:59:21.131Z
 startTime: 2025-03-05T03:30:54.477Z
 generator: Upptime <https://github.com/upptime/upptime>
