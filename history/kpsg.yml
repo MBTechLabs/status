@@ -1,7 +1,7 @@
 url: https://kpsg.com
-status: up
-code: 200
-responseTime: 1680
-lastUpdated: 2025-12-13T17:12:38.667Z
+status: down
+code: 415
+responseTime: 726
+lastUpdated: 2025-12-13T19:26:39.334Z
 startTime: 2025-03-05T04:27:01.634Z
 generator: Upptime <https://github.com/upptime/upptime>
