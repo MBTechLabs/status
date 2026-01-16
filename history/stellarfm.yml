@@ -1,7 +1,7 @@
 url: http://stellarfm.com.au
-status: up
-code: 200
-responseTime: 3252
-lastUpdated: 2026-01-15T23:22:12.708Z
+status: down
+code: 415
+responseTime: 646
+lastUpdated: 2026-01-16T03:08:52.113Z
 startTime: 2025-03-05T04:25:55.564Z
 generator: Upptime <https://github.com/upptime/upptime>
