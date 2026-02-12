@@ -1280,19 +1280,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vitablitzherbal.com.ico",
     "slug": "vitablitz",
     "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "83.94%",
-    "uptimeWeek": "87.94%",
-    "uptimeMonth": "89.13%",
-    "uptimeYear": "98.94%",
+    "uptime": "98.93%",
+    "uptimeDay": "84.59%",
+    "uptimeWeek": "88.03%",
+    "uptimeMonth": "89.15%",
+    "uptimeYear": "98.93%",
     "time": 3103,
     "timeDay": 5171,
     "timeWeek": 5831,
     "timeMonth": 5205,
     "timeYear": 3103,
     "dailyMinutesDown": {
-      "2026-02-12": 1,
-      "2026-02-11": 231,
+      "2026-02-11": 223,
       "2026-02-10": 231,
       "2026-02-09": 160,
       "2026-02-08": 142,
@@ -1327,7 +1326,8 @@
       "2026-01-05": 96,
       "2026-01-04": 98,
       "2026-01-03": 81,
-      "2026-01-01": 21
+      "2026-01-01": 21,
+      "2025-12-31": 22
     }
   },
   {
@@ -1336,19 +1336,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/directstation.co.id.ico",
     "slug": "direct-station",
     "status": "up",
-    "uptime": "98.35%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "85.96%",
-    "uptimeMonth": "87.44%",
-    "uptimeYear": "98.35%",
+    "uptime": "98.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.06%",
+    "uptimeMonth": "87.46%",
+    "uptimeYear": "98.34%",
     "time": 1961,
     "timeDay": 2169,
     "timeWeek": 2123,
     "timeMonth": 2143,
     "timeYear": 1961,
     "dailyMinutesDown": {
-      "2026-02-12": 1,
-      "2026-02-11": 8,
       "2026-02-10": 171,
       "2026-02-09": 573,
       "2026-02-08": 152,
@@ -1393,7 +1391,7 @@
       "2025-12-22": 19,
       "2025-12-21": 15,
       "2025-12-20": 1199,
-      "2025-12-19": 385
+      "2025-12-19": 444
     }
   },
   {
@@ -1403,9 +1401,9 @@
     "slug": "tiga-sumber-audio",
     "status": "up",
     "uptime": "98.35%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "85.95%",
-    "uptimeMonth": "87.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.04%",
+    "uptimeMonth": "87.45%",
     "uptimeYear": "98.35%",
     "time": 3639,
     "timeDay": 2866,
@@ -1413,8 +1411,6 @@
     "timeMonth": 3390,
     "timeYear": 3639,
     "dailyMinutesDown": {
-      "2026-02-12": 2,
-      "2026-02-11": 8,
       "2026-02-10": 171,
       "2026-02-09": 573,
       "2026-02-08": 152,
@@ -1459,7 +1455,7 @@
       "2025-12-22": 20,
       "2025-12-21": 15,
       "2025-12-20": 1199,
-      "2025-12-19": 385
+      "2025-12-19": 400
     }
   },
   {
@@ -1469,9 +1465,9 @@
     "slug": "elora",
     "status": "up",
     "uptime": "98.35%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "85.94%",
-    "uptimeMonth": "87.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.04%",
+    "uptimeMonth": "87.41%",
     "uptimeYear": "98.35%",
     "time": 2346,
     "timeDay": 2079,
@@ -1479,8 +1475,6 @@
     "timeMonth": 2463,
     "timeYear": 2346,
     "dailyMinutesDown": {
-      "2026-02-12": 2,
-      "2026-02-11": 8,
       "2026-02-10": 171,
       "2026-02-09": 573,
       "2026-02-08": 152,
@@ -1525,7 +1519,7 @@
       "2025-12-22": 20,
       "2025-12-21": 15,
       "2025-12-20": 1200,
-      "2025-12-19": 385
+      "2025-12-19": 400
     }
   },
   {
@@ -1534,18 +1528,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hamparanharapanhayati.com.ico",
     "slug": "hamparan-harapan-hayati",
     "status": "up",
-    "uptime": "97.53%",
+    "uptime": "97.52%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "10.18%",
-    "uptimeMonth": "79.33%",
-    "uptimeYear": "97.53%",
+    "uptimeWeek": "9.74%",
+    "uptimeMonth": "79.23%",
+    "uptimeYear": "97.52%",
     "time": 2150,
     "timeDay": 1215,
     "timeWeek": 1171,
     "timeMonth": 1010,
     "timeYear": 2150,
     "dailyMinutesDown": {
-      "2026-02-12": 127,
+      "2026-02-12": 170,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -1758,9 +1752,9 @@
     "slug": "qteknos",
     "status": "up",
     "uptime": "93.50%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "87.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "87.96%",
     "uptimeYear": "93.50%",
     "time": 2935,
     "timeDay": 2256,
@@ -1768,8 +1762,6 @@
     "timeMonth": 2494,
     "timeYear": 2935,
     "dailyMinutesDown": {
-      "2026-02-12": 2,
-      "2026-02-11": 8,
       "2026-02-10": 63,
       "2026-02-09": 63,
       "2026-02-08": 106,
@@ -1853,7 +1845,8 @@
       "2025-08-22": 40,
       "2025-08-02": 17,
       "2025-07-30": 122,
-      "2025-07-29": 44
+      "2025-07-29": 44,
+      "2025-07-19": 27
     }
   },
   {
@@ -1862,19 +1855,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pradasetia.com.ico",
     "slug": "prada-setia",
     "status": "up",
-    "uptime": "73.08%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "16.68%",
-    "uptimeMonth": "1.93%",
-    "uptimeYear": "73.08%",
+    "uptime": "73.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "17.21%",
+    "uptimeMonth": "2.05%",
+    "uptimeYear": "73.09%",
     "time": 2251,
     "timeDay": 1439,
     "timeWeek": 1827,
     "timeMonth": 1598,
     "timeYear": 2251,
     "dailyMinutesDown": {
-      "2026-02-12": 2,
-      "2026-02-11": 8,
       "2026-02-10": 1315,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
@@ -2002,19 +1993,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rmsp.co.id.ico",
     "slug": "rmsp",
     "status": "up",
-    "uptime": "98.07%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "87.94%",
-    "uptimeYear": "98.07%",
+    "uptime": "98.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.50%",
+    "uptimeMonth": "87.96%",
+    "uptimeYear": "98.06%",
     "time": 3601,
     "timeDay": 1748,
     "timeWeek": 1692,
     "timeMonth": 1713,
     "timeYear": 3601,
     "dailyMinutesDown": {
-      "2026-02-12": 2,
-      "2026-02-11": 8,
       "2026-02-10": 63,
       "2026-02-09": 63,
       "2026-02-08": 107,
@@ -2081,7 +2070,8 @@
       "2025-09-28": 153,
       "2025-09-19": 23,
       "2025-09-16": 18,
-      "2025-09-08": 21
+      "2025-09-08": 21,
+      "2025-08-28": 86
     }
   },
   {
@@ -2416,7 +2406,7 @@
     "timeMonth": 1153,
     "timeYear": 2665,
     "dailyMinutesDown": {
-      "2026-02-12": 127,
+      "2026-02-12": 171,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -2564,7 +2554,7 @@
     "timeMonth": 0,
     "timeYear": 1121,
     "dailyMinutesDown": {
-      "2026-02-12": 127,
+      "2026-02-12": 171,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -2830,9 +2820,9 @@
     "slug": "prodia-ohi",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "95.40%",
-    "uptimeMonth": "87.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.50%",
+    "uptimeMonth": "87.96%",
     "uptimeYear": "98.02%",
     "time": 1574,
     "timeDay": 1364,
@@ -2840,8 +2830,6 @@
     "timeMonth": 1375,
     "timeYear": 1574,
     "dailyMinutesDown": {
-      "2026-02-12": 2,
-      "2026-02-11": 7,
       "2026-02-10": 63,
       "2026-02-09": 63,
       "2026-02-08": 107,
@@ -2909,7 +2897,8 @@
       "2025-09-16": 19,
       "2025-09-08": 21,
       "2025-08-22": 40,
-      "2025-08-12": 28
+      "2025-08-12": 28,
+      "2025-08-02": 17
     }
   },
   {
@@ -2919,9 +2908,9 @@
     "slug": "tjajolaw",
     "status": "up",
     "uptime": "98.06%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "97.43%",
-    "uptimeMonth": "88.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "88.58%",
     "uptimeYear": "98.06%",
     "time": 1881,
     "timeDay": 2332,
@@ -2929,8 +2918,6 @@
     "timeMonth": 1788,
     "timeYear": 1881,
     "dailyMinutesDown": {
-      "2026-02-12": 3,
-      "2026-02-11": 7,
       "2026-02-10": 63,
       "2026-02-08": 75,
       "2026-02-07": 65,
@@ -3003,7 +2990,7 @@
       "2025-07-24": 28,
       "2025-07-19": 25,
       "2025-07-02": 15,
-      "2025-06-27": 45
+      "2025-06-27": 66
     }
   },
   {
