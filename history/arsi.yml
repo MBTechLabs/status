@@ -1,7 +1,7 @@
 url: https://arsi.ai
-status: up
-code: 200
-responseTime: 2949
-lastUpdated: 2026-04-17T23:40:33.858Z
+status: down
+code: 415
+responseTime: 731
+lastUpdated: 2026-04-18T21:03:52.447Z
 startTime: 2025-05-15T08:54:01.041Z
 generator: Upptime <https://github.com/upptime/upptime>
